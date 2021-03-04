@@ -97,7 +97,7 @@ h1#herotitle {
 
 footer {
     margin-top: 50px;
-    background-color: teal;
+    background-color: gray;
     padding: 15px;
     display: flex;
     justify-content: space-between;
